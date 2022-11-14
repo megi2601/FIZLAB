@@ -6,7 +6,7 @@ import sympy as sp
 
 # współczynniki Studenta-Fishera dla poziomu ufności 98%
 student_fisher_95 = {
-    # 1: 0,
+    1: 0,
     2: 12.706,
     3: 4.303,
     4: 3.182,

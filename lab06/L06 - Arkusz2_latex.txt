@@ -14,11 +14,11 @@ Rozniczka zupelna:
 m_{3} + m_{4} + m_{9} + 0.145
 
 Pochodne:
-po m4:
-1
 po m9:
 1
 po m3:
+1
+po m4:
 1
 
 Rozniczka zupelna:
@@ -29,13 +29,13 @@ Rozniczka zupelna:
 m_{3} + m_{4} + m_{5} + m_{9} + 0.145
 
 Pochodne:
-po m4:
-1
 po m9:
+1
+po m5:
 1
 po m3:
 1
-po m5:
+po m4:
 1
 
 Rozniczka zupelna:
@@ -46,15 +46,15 @@ Rozniczka zupelna:
 m_{1} + m_{3} + m_{4} + m_{5} + m_{9} + 0.145
 
 Pochodne:
+po m3:
+1
 po m4:
 1
 po m9:
 1
-po m5:
-1
 po m1:
 1
-po m3:
+po m5:
 1
 
 Rozniczka zupelna:
@@ -65,17 +65,17 @@ Rozniczka zupelna:
 m_{1} + m_{3} + m_{4} + m_{5} + m_{6} + m_{9} + 0.145
 
 Pochodne:
-po m4:
-1
 po m6:
 1
-po m5:
+po m3:
+1
+po m4:
 1
 po m9:
 1
 po m1:
 1
-po m3:
+po m5:
 1
 
 Rozniczka zupelna:
@@ -86,19 +86,19 @@ Rozniczka zupelna:
 m_{1} + m_{2} + m_{3} + m_{4} + m_{5} + m_{6} + m_{9} + 0.145
 
 Pochodne:
-po m4:
-1
 po m6:
 1
-po m5:
+po m2:
 1
 po m9:
 1
-po m1:
-1
 po m3:
 1
-po m2:
+po m4:
+1
+po m5:
+1
+po m1:
 1
 
 Rozniczka zupelna:
@@ -109,21 +109,21 @@ Rozniczka zupelna:
 m_{1} + m_{12} + m_{2} + m_{3} + m_{4} + m_{5} + m_{6} + m_{9} + 0.145
 
 Pochodne:
-po m12:
-1
-po m4:
-1
-po m5:
-1
 po m6:
+1
+po m2:
 1
 po m9:
 1
-po m1:
-1
 po m3:
 1
-po m2:
+po m4:
+1
+po m12:
+1
+po m5:
+1
+po m1:
 1
 
 Rozniczka zupelna:
@@ -136,21 +136,21 @@ m_{1} + m_{11} + m_{12} + m_{2} + m_{3} + m_{4} + m_{5} + m_{6} + m_{9} + 0.145
 Pochodne:
 po m11:
 1
-po m6:
-1
-po m5:
-1
-po m1:
-1
 po m3:
-1
-po m2:
 1
 po m4:
 1
+po m12:
+1
+po m1:
+1
+po m2:
+1
+po m6:
+1
 po m9:
 1
-po m12:
+po m5:
 1
 
 Rozniczka zupelna:
@@ -163,23 +163,23 @@ m_{1} + m_{11} + m_{12} + m_{2} + m_{3} + m_{4} + m_{5} + m_{6} + m_{7} + m_{9} 
 Pochodne:
 po m11:
 1
-po m6:
-1
-po m5:
-1
-po m1:
-1
 po m3:
-1
-po m2:
 1
 po m4:
 1
-po m9:
-1
 po m12:
 1
+po m1:
+1
+po m2:
+1
+po m6:
+1
 po m7:
+1
+po m9:
+1
+po m5:
 1
 
 Rozniczka zupelna:
@@ -192,25 +192,25 @@ m_{1} + m_{11} + m_{12} + m_{2} + m_{3} + m_{4} + m_{5} + m_{6} + m_{7} + m_{8} 
 Pochodne:
 po m11:
 1
-po m6:
-1
-po m5:
-1
-po m1:
-1
 po m3:
 1
-po m2:
-1
 po m4:
-1
-po m9:
 1
 po m8:
 1
 po m12:
 1
+po m1:
+1
+po m2:
+1
+po m6:
+1
 po m7:
+1
+po m9:
+1
+po m5:
 1
 
 Rozniczka zupelna:
@@ -223,27 +223,27 @@ m_{1} + m_{10} + m_{11} + m_{12} + m_{2} + m_{3} + m_{4} + m_{5} + m_{6} + m_{7}
 Pochodne:
 po m11:
 1
-po m6:
-1
-po m5:
-1
-po m1:
+po m10:
 1
 po m3:
-1
-po m2:
-1
-po m10:
 1
 po m4:
 1
 po m8:
 1
-po m9:
-1
 po m12:
 1
+po m1:
+1
+po m2:
+1
+po m6:
+1
 po m7:
+1
+po m9:
+1
+po m5:
 1
 
 Rozniczka zupelna:

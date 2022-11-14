@@ -3,14 +3,14 @@
 m r^{2} \left(-1 + \frac{4.905 t^{2}}{h}\right)
 
 Pochodne:
-po r:
-2 m r \left(-1 + \frac{4.905 t^{2}}{h}\right)
-po t:
-\frac{9.81 m r^{2} t}{h}
 po m:
 r^{2} \left(-1 + \frac{4.905 t^{2}}{h}\right)
+po r:
+2 m r \left(-1 + \frac{4.905 t^{2}}{h}\right)
 po h:
 - \frac{4.905 m r^{2} t^{2}}{h^{2}}
+po t:
+\frac{9.81 m r^{2} t}{h}
 
 Rozniczka zupelna:
 9.81 \sqrt{\frac{0.25 \Delta h^{2} m^{2} r^{4} t^{4}}{h^{4}} + 0.25 \Delta m^{2} r^{4} \left(-0.203873598369011 + \frac{t^{2}}{h}\right)^{2} + \Delta r^{2} m^{2} r^{2} \left(-0.203873598369011 + \frac{t^{2}}{h}\right)^{2} + \frac{\Delta t^{2} m^{2} r^{4} t^{2}}{h^{2}}}
@@ -20,14 +20,14 @@ Rozniczka zupelna:
 m r^{2} \left(-1 + \frac{4.905 t^{2}}{h}\right)
 
 Pochodne:
-po r:
-2 m r \left(-1 + \frac{4.905 t^{2}}{h}\right)
-po t:
-\frac{9.81 m r^{2} t}{h}
 po m:
 r^{2} \left(-1 + \frac{4.905 t^{2}}{h}\right)
+po r:
+2 m r \left(-1 + \frac{4.905 t^{2}}{h}\right)
 po h:
 - \frac{4.905 m r^{2} t^{2}}{h^{2}}
+po t:
+\frac{9.81 m r^{2} t}{h}
 
 Rozniczka zupelna:
 9.81 \sqrt{\frac{0.25 \Delta h^{2} m^{2} r^{4} t^{4}}{h^{4}} + 0.25 \Delta m^{2} r^{4} \left(-0.203873598369011 + \frac{t^{2}}{h}\right)^{2} + \Delta r^{2} m^{2} r^{2} \left(-0.203873598369011 + \frac{t^{2}}{h}\right)^{2} + \frac{\Delta t^{2} m^{2} r^{4} t^{2}}{h^{2}}}
@@ -37,14 +37,14 @@ Rozniczka zupelna:
 m r^{2} \left(-1 + \frac{4.905 t^{2}}{h}\right)
 
 Pochodne:
-po r:
-2 m r \left(-1 + \frac{4.905 t^{2}}{h}\right)
-po t:
-\frac{9.81 m r^{2} t}{h}
 po m:
 r^{2} \left(-1 + \frac{4.905 t^{2}}{h}\right)
+po r:
+2 m r \left(-1 + \frac{4.905 t^{2}}{h}\right)
 po h:
 - \frac{4.905 m r^{2} t^{2}}{h^{2}}
+po t:
+\frac{9.81 m r^{2} t}{h}
 
 Rozniczka zupelna:
 9.81 \sqrt{\frac{0.25 \Delta h^{2} m^{2} r^{4} t^{4}}{h^{4}} + 0.25 \Delta m^{2} r^{4} \left(-0.203873598369011 + \frac{t^{2}}{h}\right)^{2} + \Delta r^{2} m^{2} r^{2} \left(-0.203873598369011 + \frac{t^{2}}{h}\right)^{2} + \frac{\Delta t^{2} m^{2} r^{4} t^{2}}{h^{2}}}
@@ -54,14 +54,14 @@ Rozniczka zupelna:
 m r^{2} \left(-1 + \frac{4.905 t^{2}}{h}\right)
 
 Pochodne:
-po r:
-2 m r \left(-1 + \frac{4.905 t^{2}}{h}\right)
-po t:
-\frac{9.81 m r^{2} t}{h}
 po m:
 r^{2} \left(-1 + \frac{4.905 t^{2}}{h}\right)
+po r:
+2 m r \left(-1 + \frac{4.905 t^{2}}{h}\right)
 po h:
 - \frac{4.905 m r^{2} t^{2}}{h^{2}}
+po t:
+\frac{9.81 m r^{2} t}{h}
 
 Rozniczka zupelna:
 9.81 \sqrt{\frac{0.25 \Delta h^{2} m^{2} r^{4} t^{4}}{h^{4}} + 0.25 \Delta m^{2} r^{4} \left(-0.203873598369011 + \frac{t^{2}}{h}\right)^{2} + \Delta r^{2} m^{2} r^{2} \left(-0.203873598369011 + \frac{t^{2}}{h}\right)^{2} + \frac{\Delta t^{2} m^{2} r^{4} t^{2}}{h^{2}}}
@@ -71,14 +71,14 @@ Rozniczka zupelna:
 m r^{2} \left(-1 + \frac{4.905 t^{2}}{h}\right)
 
 Pochodne:
-po r:
-2 m r \left(-1 + \frac{4.905 t^{2}}{h}\right)
-po t:
-\frac{9.81 m r^{2} t}{h}
 po m:
 r^{2} \left(-1 + \frac{4.905 t^{2}}{h}\right)
+po r:
+2 m r \left(-1 + \frac{4.905 t^{2}}{h}\right)
 po h:
 - \frac{4.905 m r^{2} t^{2}}{h^{2}}
+po t:
+\frac{9.81 m r^{2} t}{h}
 
 Rozniczka zupelna:
 9.81 \sqrt{\frac{0.25 \Delta h^{2} m^{2} r^{4} t^{4}}{h^{4}} + 0.25 \Delta m^{2} r^{4} \left(-0.203873598369011 + \frac{t^{2}}{h}\right)^{2} + \Delta r^{2} m^{2} r^{2} \left(-0.203873598369011 + \frac{t^{2}}{h}\right)^{2} + \frac{\Delta t^{2} m^{2} r^{4} t^{2}}{h^{2}}}
@@ -88,14 +88,14 @@ Rozniczka zupelna:
 m r^{2} \left(-1 + \frac{4.905 t^{2}}{h}\right)
 
 Pochodne:
-po r:
-2 m r \left(-1 + \frac{4.905 t^{2}}{h}\right)
-po t:
-\frac{9.81 m r^{2} t}{h}
 po m:
 r^{2} \left(-1 + \frac{4.905 t^{2}}{h}\right)
+po r:
+2 m r \left(-1 + \frac{4.905 t^{2}}{h}\right)
 po h:
 - \frac{4.905 m r^{2} t^{2}}{h^{2}}
+po t:
+\frac{9.81 m r^{2} t}{h}
 
 Rozniczka zupelna:
 9.81 \sqrt{\frac{0.25 \Delta h^{2} m^{2} r^{4} t^{4}}{h^{4}} + 0.25 \Delta m^{2} r^{4} \left(-0.203873598369011 + \frac{t^{2}}{h}\right)^{2} + \Delta r^{2} m^{2} r^{2} \left(-0.203873598369011 + \frac{t^{2}}{h}\right)^{2} + \frac{\Delta t^{2} m^{2} r^{4} t^{2}}{h^{2}}}
@@ -105,14 +105,14 @@ Rozniczka zupelna:
 m r^{2} \left(-1 + \frac{4.905 t^{2}}{h}\right)
 
 Pochodne:
-po r:
-2 m r \left(-1 + \frac{4.905 t^{2}}{h}\right)
-po t:
-\frac{9.81 m r^{2} t}{h}
 po m:
 r^{2} \left(-1 + \frac{4.905 t^{2}}{h}\right)
+po r:
+2 m r \left(-1 + \frac{4.905 t^{2}}{h}\right)
 po h:
 - \frac{4.905 m r^{2} t^{2}}{h^{2}}
+po t:
+\frac{9.81 m r^{2} t}{h}
 
 Rozniczka zupelna:
 9.81 \sqrt{\frac{0.25 \Delta h^{2} m^{2} r^{4} t^{4}}{h^{4}} + 0.25 \Delta m^{2} r^{4} \left(-0.203873598369011 + \frac{t^{2}}{h}\right)^{2} + \Delta r^{2} m^{2} r^{2} \left(-0.203873598369011 + \frac{t^{2}}{h}\right)^{2} + \frac{\Delta t^{2} m^{2} r^{4} t^{2}}{h^{2}}}
@@ -122,14 +122,14 @@ Rozniczka zupelna:
 m r^{2} \left(-1 + \frac{4.905 t^{2}}{h}\right)
 
 Pochodne:
-po r:
-2 m r \left(-1 + \frac{4.905 t^{2}}{h}\right)
-po t:
-\frac{9.81 m r^{2} t}{h}
 po m:
 r^{2} \left(-1 + \frac{4.905 t^{2}}{h}\right)
+po r:
+2 m r \left(-1 + \frac{4.905 t^{2}}{h}\right)
 po h:
 - \frac{4.905 m r^{2} t^{2}}{h^{2}}
+po t:
+\frac{9.81 m r^{2} t}{h}
 
 Rozniczka zupelna:
 9.81 \sqrt{\frac{0.25 \Delta h^{2} m^{2} r^{4} t^{4}}{h^{4}} + 0.25 \Delta m^{2} r^{4} \left(-0.203873598369011 + \frac{t^{2}}{h}\right)^{2} + \Delta r^{2} m^{2} r^{2} \left(-0.203873598369011 + \frac{t^{2}}{h}\right)^{2} + \frac{\Delta t^{2} m^{2} r^{4} t^{2}}{h^{2}}}
@@ -139,14 +139,14 @@ Rozniczka zupelna:
 m r^{2} \left(-1 + \frac{4.905 t^{2}}{h}\right)
 
 Pochodne:
-po r:
-2 m r \left(-1 + \frac{4.905 t^{2}}{h}\right)
-po t:
-\frac{9.81 m r^{2} t}{h}
 po m:
 r^{2} \left(-1 + \frac{4.905 t^{2}}{h}\right)
+po r:
+2 m r \left(-1 + \frac{4.905 t^{2}}{h}\right)
 po h:
 - \frac{4.905 m r^{2} t^{2}}{h^{2}}
+po t:
+\frac{9.81 m r^{2} t}{h}
 
 Rozniczka zupelna:
 9.81 \sqrt{\frac{0.25 \Delta h^{2} m^{2} r^{4} t^{4}}{h^{4}} + 0.25 \Delta m^{2} r^{4} \left(-0.203873598369011 + \frac{t^{2}}{h}\right)^{2} + \Delta r^{2} m^{2} r^{2} \left(-0.203873598369011 + \frac{t^{2}}{h}\right)^{2} + \frac{\Delta t^{2} m^{2} r^{4} t^{2}}{h^{2}}}
@@ -156,14 +156,14 @@ Rozniczka zupelna:
 m r^{2} \left(-1 + \frac{4.905 t^{2}}{h}\right)
 
 Pochodne:
-po r:
-2 m r \left(-1 + \frac{4.905 t^{2}}{h}\right)
-po t:
-\frac{9.81 m r^{2} t}{h}
 po m:
 r^{2} \left(-1 + \frac{4.905 t^{2}}{h}\right)
+po r:
+2 m r \left(-1 + \frac{4.905 t^{2}}{h}\right)
 po h:
 - \frac{4.905 m r^{2} t^{2}}{h^{2}}
+po t:
+\frac{9.81 m r^{2} t}{h}
 
 Rozniczka zupelna:
 9.81 \sqrt{\frac{0.25 \Delta h^{2} m^{2} r^{4} t^{4}}{h^{4}} + 0.25 \Delta m^{2} r^{4} \left(-0.203873598369011 + \frac{t^{2}}{h}\right)^{2} + \Delta r^{2} m^{2} r^{2} \left(-0.203873598369011 + \frac{t^{2}}{h}\right)^{2} + \frac{\Delta t^{2} m^{2} r^{4} t^{2}}{h^{2}}}
@@ -173,14 +173,14 @@ Rozniczka zupelna:
 m r^{2} \left(-1 + \frac{4.905 t^{2}}{h}\right)
 
 Pochodne:
-po r:
-2 m r \left(-1 + \frac{4.905 t^{2}}{h}\right)
-po t:
-\frac{9.81 m r^{2} t}{h}
 po m:
 r^{2} \left(-1 + \frac{4.905 t^{2}}{h}\right)
+po r:
+2 m r \left(-1 + \frac{4.905 t^{2}}{h}\right)
 po h:
 - \frac{4.905 m r^{2} t^{2}}{h^{2}}
+po t:
+\frac{9.81 m r^{2} t}{h}
 
 Rozniczka zupelna:
 9.81 \sqrt{\frac{0.25 \Delta h^{2} m^{2} r^{4} t^{4}}{h^{4}} + 0.25 \Delta m^{2} r^{4} \left(-0.203873598369011 + \frac{t^{2}}{h}\right)^{2} + \Delta r^{2} m^{2} r^{2} \left(-0.203873598369011 + \frac{t^{2}}{h}\right)^{2} + \frac{\Delta t^{2} m^{2} r^{4} t^{2}}{h^{2}}}
@@ -190,14 +190,14 @@ Rozniczka zupelna:
 m r^{2} \left(-1 + \frac{4.905 t^{2}}{h}\right)
 
 Pochodne:
-po r:
-2 m r \left(-1 + \frac{4.905 t^{2}}{h}\right)
-po t:
-\frac{9.81 m r^{2} t}{h}
 po m:
 r^{2} \left(-1 + \frac{4.905 t^{2}}{h}\right)
+po r:
+2 m r \left(-1 + \frac{4.905 t^{2}}{h}\right)
 po h:
 - \frac{4.905 m r^{2} t^{2}}{h^{2}}
+po t:
+\frac{9.81 m r^{2} t}{h}
 
 Rozniczka zupelna:
 9.81 \sqrt{\frac{0.25 \Delta h^{2} m^{2} r^{4} t^{4}}{h^{4}} + 0.25 \Delta m^{2} r^{4} \left(-0.203873598369011 + \frac{t^{2}}{h}\right)^{2} + \Delta r^{2} m^{2} r^{2} \left(-0.203873598369011 + \frac{t^{2}}{h}\right)^{2} + \frac{\Delta t^{2} m^{2} r^{4} t^{2}}{h^{2}}}
@@ -207,14 +207,14 @@ Rozniczka zupelna:
 m r^{2} \left(-1 + \frac{4.905 t^{2}}{h}\right)
 
 Pochodne:
-po r:
-2 m r \left(-1 + \frac{4.905 t^{2}}{h}\right)
-po t:
-\frac{9.81 m r^{2} t}{h}
 po m:
 r^{2} \left(-1 + \frac{4.905 t^{2}}{h}\right)
+po r:
+2 m r \left(-1 + \frac{4.905 t^{2}}{h}\right)
 po h:
 - \frac{4.905 m r^{2} t^{2}}{h^{2}}
+po t:
+\frac{9.81 m r^{2} t}{h}
 
 Rozniczka zupelna:
 9.81 \sqrt{\frac{0.25 \Delta h^{2} m^{2} r^{4} t^{4}}{h^{4}} + 0.25 \Delta m^{2} r^{4} \left(-0.203873598369011 + \frac{t^{2}}{h}\right)^{2} + \Delta r^{2} m^{2} r^{2} \left(-0.203873598369011 + \frac{t^{2}}{h}\right)^{2} + \frac{\Delta t^{2} m^{2} r^{4} t^{2}}{h^{2}}}
@@ -224,14 +224,14 @@ Rozniczka zupelna:
 m r^{2} \left(-1 + \frac{4.905 t^{2}}{h}\right)
 
 Pochodne:
-po r:
-2 m r \left(-1 + \frac{4.905 t^{2}}{h}\right)
-po t:
-\frac{9.81 m r^{2} t}{h}
 po m:
 r^{2} \left(-1 + \frac{4.905 t^{2}}{h}\right)
+po r:
+2 m r \left(-1 + \frac{4.905 t^{2}}{h}\right)
 po h:
 - \frac{4.905 m r^{2} t^{2}}{h^{2}}
+po t:
+\frac{9.81 m r^{2} t}{h}
 
 Rozniczka zupelna:
 9.81 \sqrt{\frac{0.25 \Delta h^{2} m^{2} r^{4} t^{4}}{h^{4}} + 0.25 \Delta m^{2} r^{4} \left(-0.203873598369011 + \frac{t^{2}}{h}\right)^{2} + \Delta r^{2} m^{2} r^{2} \left(-0.203873598369011 + \frac{t^{2}}{h}\right)^{2} + \frac{\Delta t^{2} m^{2} r^{4} t^{2}}{h^{2}}}
@@ -241,14 +241,14 @@ Rozniczka zupelna:
 m r^{2} \left(-1 + \frac{4.905 t^{2}}{h}\right)
 
 Pochodne:
-po r:
-2 m r \left(-1 + \frac{4.905 t^{2}}{h}\right)
-po t:
-\frac{9.81 m r^{2} t}{h}
 po m:
 r^{2} \left(-1 + \frac{4.905 t^{2}}{h}\right)
+po r:
+2 m r \left(-1 + \frac{4.905 t^{2}}{h}\right)
 po h:
 - \frac{4.905 m r^{2} t^{2}}{h^{2}}
+po t:
+\frac{9.81 m r^{2} t}{h}
 
 Rozniczka zupelna:
 9.81 \sqrt{\frac{0.25 \Delta h^{2} m^{2} r^{4} t^{4}}{h^{4}} + 0.25 \Delta m^{2} r^{4} \left(-0.203873598369011 + \frac{t^{2}}{h}\right)^{2} + \Delta r^{2} m^{2} r^{2} \left(-0.203873598369011 + \frac{t^{2}}{h}\right)^{2} + \frac{\Delta t^{2} m^{2} r^{4} t^{2}}{h^{2}}}
@@ -258,14 +258,14 @@ Rozniczka zupelna:
 m r^{2} \left(-1 + \frac{4.905 t^{2}}{h}\right)
 
 Pochodne:
-po r:
-2 m r \left(-1 + \frac{4.905 t^{2}}{h}\right)
-po t:
-\frac{9.81 m r^{2} t}{h}
 po m:
 r^{2} \left(-1 + \frac{4.905 t^{2}}{h}\right)
+po r:
+2 m r \left(-1 + \frac{4.905 t^{2}}{h}\right)
 po h:
 - \frac{4.905 m r^{2} t^{2}}{h^{2}}
+po t:
+\frac{9.81 m r^{2} t}{h}
 
 Rozniczka zupelna:
 9.81 \sqrt{\frac{0.25 \Delta h^{2} m^{2} r^{4} t^{4}}{h^{4}} + 0.25 \Delta m^{2} r^{4} \left(-0.203873598369011 + \frac{t^{2}}{h}\right)^{2} + \Delta r^{2} m^{2} r^{2} \left(-0.203873598369011 + \frac{t^{2}}{h}\right)^{2} + \frac{\Delta t^{2} m^{2} r^{4} t^{2}}{h^{2}}}
@@ -275,14 +275,14 @@ Rozniczka zupelna:
 m r^{2} \left(-1 + \frac{4.905 t^{2}}{h}\right)
 
 Pochodne:
-po r:
-2 m r \left(-1 + \frac{4.905 t^{2}}{h}\right)
-po t:
-\frac{9.81 m r^{2} t}{h}
 po m:
 r^{2} \left(-1 + \frac{4.905 t^{2}}{h}\right)
+po r:
+2 m r \left(-1 + \frac{4.905 t^{2}}{h}\right)
 po h:
 - \frac{4.905 m r^{2} t^{2}}{h^{2}}
+po t:
+\frac{9.81 m r^{2} t}{h}
 
 Rozniczka zupelna:
 9.81 \sqrt{\frac{0.25 \Delta h^{2} m^{2} r^{4} t^{4}}{h^{4}} + 0.25 \Delta m^{2} r^{4} \left(-0.203873598369011 + \frac{t^{2}}{h}\right)^{2} + \Delta r^{2} m^{2} r^{2} \left(-0.203873598369011 + \frac{t^{2}}{h}\right)^{2} + \frac{\Delta t^{2} m^{2} r^{4} t^{2}}{h^{2}}}
@@ -292,14 +292,14 @@ Rozniczka zupelna:
 m r^{2} \left(-1 + \frac{4.905 t^{2}}{h}\right)
 
 Pochodne:
-po r:
-2 m r \left(-1 + \frac{4.905 t^{2}}{h}\right)
-po t:
-\frac{9.81 m r^{2} t}{h}
 po m:
 r^{2} \left(-1 + \frac{4.905 t^{2}}{h}\right)
+po r:
+2 m r \left(-1 + \frac{4.905 t^{2}}{h}\right)
 po h:
 - \frac{4.905 m r^{2} t^{2}}{h^{2}}
+po t:
+\frac{9.81 m r^{2} t}{h}
 
 Rozniczka zupelna:
 9.81 \sqrt{\frac{0.25 \Delta h^{2} m^{2} r^{4} t^{4}}{h^{4}} + 0.25 \Delta m^{2} r^{4} \left(-0.203873598369011 + \frac{t^{2}}{h}\right)^{2} + \Delta r^{2} m^{2} r^{2} \left(-0.203873598369011 + \frac{t^{2}}{h}\right)^{2} + \frac{\Delta t^{2} m^{2} r^{4} t^{2}}{h^{2}}}
