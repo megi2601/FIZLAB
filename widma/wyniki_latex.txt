@@ -1,30 +1,72 @@
 
 
-\frac{l}{\sin{\left(a \right)}}
+\frac{2937015460115251}{4398046511104 \sin{\left(a \right)}}
 
 Pochodne:
-po l:
-\frac{1}{\sin{\left(a \right)}}
 po a:
-- \frac{l \cos{\left(a \right)}}{\sin^{2}{\left(a \right)}}
+- \frac{2937015460115251 \cos{\left(a \right)}}{4398046511104 \sin^{2}{\left(a \right)}}
 
 Rozniczka zupelna:
-\sqrt{\frac{\Delta a^{2} l^{2} \cos^{2}{\left(a \right)}}{\sin^{4}{\left(a \right)}} + \frac{\Delta l^{2}}{\sin^{2}{\left(a \right)}}}
+\frac{2937015460115251 \sqrt{\frac{\Delta a^{2} \cos^{2}{\left(a \right)}}{\sin^{4}{\left(a \right)}}}}{4398046511104}
+
+
+
+\frac{5168584259849421}{8796093022208 \sin{\left(a \right)}}
+
+Pochodne:
+po a:
+- \frac{5168584259849421 \cos{\left(a \right)}}{8796093022208 \sin^{2}{\left(a \right)}}
+
+Rozniczka zupelna:
+\frac{5168584259849421 \sqrt{\frac{\Delta a^{2} \cos^{2}{\left(a \right)}}{\sin^{4}{\left(a \right)}}}}{8796093022208}
+
+
+
+\frac{4420916352961741}{8796093022208 \sin{\left(a \right)}}
+
+Pochodne:
+po a:
+- \frac{4420916352961741 \cos{\left(a \right)}}{8796093022208 \sin^{2}{\left(a \right)}}
+
+Rozniczka zupelna:
+\frac{4420916352961741 \sqrt{\frac{\Delta a^{2} \cos^{2}{\left(a \right)}}{\sin^{4}{\left(a \right)}}}}{8796093022208}
+
+
+
+\frac{8291197282733261}{17592186044416 \sin{\left(a \right)}}
+
+Pochodne:
+po a:
+- \frac{8291197282733261 \cos{\left(a \right)}}{17592186044416 \sin^{2}{\left(a \right)}}
+
+Rozniczka zupelna:
+\frac{8291197282733261 \sqrt{\frac{\Delta a^{2} \cos^{2}{\left(a \right)}}{\sin^{4}{\left(a \right)}}}}{17592186044416}
+
+
+
+\frac{3932733190229197}{8796093022208 \sin{\left(a \right)}}
+
+Pochodne:
+po a:
+- \frac{3932733190229197 \cos{\left(a \right)}}{8796093022208 \sin^{2}{\left(a \right)}}
+
+Rozniczka zupelna:
+\frac{3932733190229197 \sqrt{\frac{\Delta a^{2} \cos^{2}{\left(a \right)}}{\sin^{4}{\left(a \right)}}}}{8796093022208}
 
 
 
 \frac{d_{1}}{5} + \frac{d_{2}}{5} + \frac{d_{3}}{5} + \frac{d_{4}}{5} + \frac{d_{5}}{5}
 
 Pochodne:
+po d1:
+\frac{1}{5}
 po d4:
 \frac{1}{5}
-po d3:
+po d5:
 \frac{1}{5}
 po d2:
 \frac{1}{5}
-po d1:
-\frac{1}{5}
-po d5:
+po d3:
 \frac{1}{5}
 
 Rozniczka zupelna:
@@ -35,10 +77,10 @@ Rozniczka zupelna:
 d \sin{\left(a \right)}
 
 Pochodne:
-po a:
-d \cos{\left(a \right)}
 po d:
 \sin{\left(a \right)}
+po a:
+d \cos{\left(a \right)}
 
 Rozniczka zupelna:
 \sqrt{\Delta a^{2} d^{2} \cos^{2}{\left(a \right)} + \Delta d^{2} \sin^{2}{\left(a \right)}}
@@ -48,10 +90,10 @@ Rozniczka zupelna:
 d \sin{\left(a \right)}
 
 Pochodne:
-po a:
-d \cos{\left(a \right)}
 po d:
 \sin{\left(a \right)}
+po a:
+d \cos{\left(a \right)}
 
 Rozniczka zupelna:
 \sqrt{\Delta a^{2} d^{2} \cos^{2}{\left(a \right)} + \Delta d^{2} \sin^{2}{\left(a \right)}}
@@ -61,10 +103,10 @@ Rozniczka zupelna:
 d \sin{\left(a \right)}
 
 Pochodne:
-po a:
-d \cos{\left(a \right)}
 po d:
 \sin{\left(a \right)}
+po a:
+d \cos{\left(a \right)}
 
 Rozniczka zupelna:
 \sqrt{\Delta a^{2} d^{2} \cos^{2}{\left(a \right)} + \Delta d^{2} \sin^{2}{\left(a \right)}}
@@ -74,10 +116,10 @@ Rozniczka zupelna:
 d \sin{\left(a \right)}
 
 Pochodne:
-po a:
-d \cos{\left(a \right)}
 po d:
 \sin{\left(a \right)}
+po a:
+d \cos{\left(a \right)}
 
 Rozniczka zupelna:
 \sqrt{\Delta a^{2} d^{2} \cos^{2}{\left(a \right)} + \Delta d^{2} \sin^{2}{\left(a \right)}}

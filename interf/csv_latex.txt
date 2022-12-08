@@ -1,0 +1,125 @@
+
+
+\frac{a}{2} + \frac{b}{2}
+
+Pochodne:
+po b:
+\frac{1}{2}
+po a:
+\frac{1}{2}
+
+Rozniczka zupelna:
+\sqrt{\frac{\Delta a^{2}}{4} + \frac{\Delta b^{2}}{4}}
+
+
+
+\frac{632.8 \sqrt{l^{2} + x^{2}}}{x}
+
+Pochodne:
+po x:
+\frac{632.8}{\sqrt{l^{2} + x^{2}}} - \frac{632.8 \sqrt{l^{2} + x^{2}}}{x^{2}}
+po l:
+\frac{632.8 l}{x \sqrt{l^{2} + x^{2}}}
+
+Rozniczka zupelna:
+632.8 \sqrt{\frac{\Delta l^{2} l^{2}}{x^{2} \left(l^{2} + x^{2}\right)} + \Delta x^{2} \left(\frac{1}{\sqrt{l^{2} + x^{2}}} - \frac{\sqrt{l^{2} + x^{2}}}{x^{2}}\right)^{2}}
+
+
+
+\frac{d x}{\sqrt{l^{2} + x^{2}}}
+
+Pochodne:
+po d:
+\frac{x}{\sqrt{l^{2} + x^{2}}}
+po x:
+- \frac{d x^{2}}{\left(l^{2} + x^{2}\right)^{\frac{3}{2}}} + \frac{d}{\sqrt{l^{2} + x^{2}}}
+po l:
+- \frac{d l x}{\left(l^{2} + x^{2}\right)^{\frac{3}{2}}}
+
+Rozniczka zupelna:
+\sqrt{\frac{\Delta d^{2} x^{2}}{l^{2} + x^{2}} + \frac{\Delta l^{2} d^{2} l^{2} x^{2}}{\left(l^{2} + x^{2}\right)^{3}} + \Delta x^{2} \left(- \frac{d x^{2}}{\left(l^{2} + x^{2}\right)^{\frac{3}{2}}} + \frac{d}{\sqrt{l^{2} + x^{2}}}\right)^{2}}
+
+
+
+\frac{1265.6 l}{x}
+
+Pochodne:
+po x:
+- \frac{1265.6 l}{x^{2}}
+po l:
+\frac{1265.6}{x}
+
+Rozniczka zupelna:
+1265.6 \sqrt{\frac{\Delta l^{2}}{x^{2}} + \frac{\Delta x^{2} l^{2}}{x^{4}}}
+
+
+
+\frac{2531.2 l}{x}
+
+Pochodne:
+po x:
+- \frac{2531.2 l}{x^{2}}
+po l:
+\frac{2531.2}{x}
+
+Rozniczka zupelna:
+2531.2 \sqrt{\frac{\Delta l^{2}}{x^{2}} + \frac{\Delta x^{2} l^{2}}{x^{4}}}
+
+
+
+\frac{1265.6 l}{x}
+
+Pochodne:
+po x:
+- \frac{1265.6 l}{x^{2}}
+po l:
+\frac{1265.6}{x}
+
+Rozniczka zupelna:
+1265.6 \sqrt{\frac{\Delta l^{2}}{x^{2}} + \frac{\Delta x^{2} l^{2}}{x^{4}}}
+
+
+
+\frac{2531.2 l}{x}
+
+Pochodne:
+po x:
+- \frac{2531.2 l}{x^{2}}
+po l:
+\frac{2531.2}{x}
+
+Rozniczka zupelna:
+2531.2 \sqrt{\frac{\Delta l^{2}}{x^{2}} + \frac{\Delta x^{2} l^{2}}{x^{4}}}
+
+
+
+\frac{a}{5} + \frac{b}{5} + \frac{d}{5} + \frac{l}{5} + \frac{m}{5}
+
+Pochodne:
+po l:
+\frac{1}{5}
+po a:
+\frac{1}{5}
+po m:
+\frac{1}{5}
+po d:
+\frac{1}{5}
+po b:
+\frac{1}{5}
+
+Rozniczka zupelna:
+\sqrt{\frac{\Delta a^{2}}{25} + \frac{\Delta b^{2}}{25} + \frac{\Delta d^{2}}{25} + \frac{\Delta l^{2}}{25} + \frac{\Delta m^{2}}{25}}
+
+
+
+\frac{632.8 l}{d}
+
+Pochodne:
+po d:
+- \frac{632.8 l}{d^{2}}
+po l:
+\frac{632.8}{d}
+
+Rozniczka zupelna:
+632.8 \sqrt{\frac{\Delta d^{2} l^{2}}{d^{4}} + \frac{\Delta l^{2}}{d^{2}}}
+
