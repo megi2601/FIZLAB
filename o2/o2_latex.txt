@@ -1,0 +1,96 @@
+
+
+K_{0} - K_{1}
+
+Pochodne:
+po K0:
+1
+po K1:
+-1
+
+Rozniczka zupelna:
+\sqrt{\Delta K0^{2} + \Delta K1^{2}}
+
+
+
+K_{0} - K_{1}
+
+Pochodne:
+po K0:
+1
+po K1:
+-1
+
+Rozniczka zupelna:
+\sqrt{\Delta K0^{2} + \Delta K1^{2}}
+
+
+
+K_{0} - K_{1}
+
+Pochodne:
+po K0:
+1
+po K1:
+-1
+
+Rozniczka zupelna:
+\sqrt{\Delta K0^{2} + \Delta K1^{2}}
+
+
+
+K_{0} - K_{1}
+
+Pochodne:
+po K0:
+1
+po K1:
+-1
+
+Rozniczka zupelna:
+\sqrt{\Delta K0^{2} + \Delta K1^{2}}
+
+
+
+\tan{\left(a \right)}
+
+Pochodne:
+po a:
+\tan^{2}{\left(a \right)} + 1
+
+Rozniczka zupelna:
+\sqrt{\Delta a^{2} \left(\tan^{2}{\left(a \right)} + 1\right)^{2}}
+
+
+
+\tan{\left(a \right)}
+
+Pochodne:
+po a:
+\tan^{2}{\left(a \right)} + 1
+
+Rozniczka zupelna:
+\sqrt{\Delta a^{2} \left(\tan^{2}{\left(a \right)} + 1\right)^{2}}
+
+
+
+\tan{\left(a \right)}
+
+Pochodne:
+po a:
+\tan^{2}{\left(a \right)} + 1
+
+Rozniczka zupelna:
+\sqrt{\Delta a^{2} \left(\tan^{2}{\left(a \right)} + 1\right)^{2}}
+
+
+
+\tan{\left(a \right)}
+
+Pochodne:
+po a:
+\tan^{2}{\left(a \right)} + 1
+
+Rozniczka zupelna:
+\sqrt{\Delta a^{2} \left(\tan^{2}{\left(a \right)} + 1\right)^{2}}
+
